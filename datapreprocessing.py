@@ -32,8 +32,8 @@ y = lbe.fit_transform(y)
 
 
 #split dataset into training and test set
-from sklearn.model_selection import train_test_split as tits
-X_train,X_test,y_train,y_test = tits(X, y, test_size=0.2, random_state=0)
+from sklearn.model_selection import train_test_split as tts
+X_train,X_test,y_train,y_test = tts(X, y, test_size=0.2, random_state=0)
 
 # feature scaling
 
