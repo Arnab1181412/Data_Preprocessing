@@ -1,0 +1,12 @@
+#Please suggest some changes for the better datapreprocessing.
+
+
+# It currently includes:-
+
+1. Importing the data file.
+2. Seperating the Dependent and in dependent variables.
+3. Filling the blank spaces with mean of the columns.
+4. One Hot Encoding but i did it with the help of pandas making X as a dataframe.
+5. Label encoding of the purchased column.
+6. Spitting the dataset into Training and Test cases.
+7. Feature Scaling 
