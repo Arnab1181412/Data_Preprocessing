@@ -9,4 +9,4 @@
 4. One Hot Encoding but i did it with the help of pandas making X as a dataframe.
 5. Label encoding of the purchased column.
 6. Spitting the dataset into Training and Test cases.
-7. 
+7. Feature Scaling 
